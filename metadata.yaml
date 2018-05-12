@@ -1,0 +1,40 @@
+_repo: Elsie-and-Her-Namesakes_45804
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45804-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Finley, Martha
+    aliases:
+    - Farquharson, Martha
+    - Cousin Martha
+    birthdate: 1828
+    deathdate: 1909
+    gutenberg_agent_id: '2044'
+    url: http://www.gutenberg.org/2009/agents/2044
+    wikipedia: http://www.readseries.com/auth-dm/finley1.html
+description: Harold Travilla marries Gracie Raymond on New Year's Day, and the happy
+  couple honeymoons at Viamede, Grandmother Elsie's Louisiana plantation. The rest
+  of the family travels on the Dolphin to join them, and along the way Grandmother
+  Elsie and Captain Raymond regale the children with tales from Southern history,
+  and Cousin Ronald entertains them with stories of his native Scotland. The happy
+  family grows yet again when Lucilla and Chester welcome a healthy baby boy to the
+  clan. The Dinsmores and Raymonds then make plans to spend the summer at Crag Cottage,
+  Evelyn's beloved home.
+gutenberg_issued: '2014-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45804'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dinsmore, Elsie (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Southern States -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Christian fiction'
+- !lcsh 'Families -- Juvenile fiction'
+title: Elsie and Her Namesakes
+url: http://www.gutenberg.org/ebooks/45804
